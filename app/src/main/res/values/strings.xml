@@ -1,4 +1,10 @@
 <resources>
     <string name="app_name">My App Portfolio</string>
     <string name="my_nanodegree_apps">My Nanodegree Apps</string>
+    <string name="new_button1">New Button1</string>
+    <string name="new_button2">New Button2</string>
+    <string name="new_button3">New Button3</string>
+    <string name="new_button4">New Button4</string>
+    <string name="new_button5">New Button5</string>
+    <string name="new_button6">New Button6</string>
 </resources>
